@@ -8,8 +8,8 @@
 
 ## 🗓️ Duration
 
-**Start Date:**  June 23, 2025]  
-**End Date:** -  
+**Start Date:**  June 23, 2025
+**End Date:**  -  
 **Role:** Security Intern 
 
 ---

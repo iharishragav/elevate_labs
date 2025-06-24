@@ -15,14 +15,5 @@
 ---
 
 ## 📁 Repository Structure
- - /reports/ → task-wise and week-wise tasks, analysis, and scan results
+ - /reports/ → task-wise and week-wise tasks, analysis, and  results
  - README.md → You are here!
-   
-## 📌 What I Worked On
-
-- ✅ Nmap scanning and enumeration
-- ✅ Network analysis and SOA record discovery
-- ✅ Wireshark traffic inspection
-- ✅ DNS & DHCP configuration analysis
-- ✅ Custom script writing for automation
-- ✅ Daily reporting and documentation

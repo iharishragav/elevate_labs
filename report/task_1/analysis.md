@@ -19,7 +19,7 @@
   - Malicious actors can exfiltrate data or create C2 (command & control) channels via DNS over TCP.
 
 **3. DNS Amplification Attacks**
-I - If misconfigured and allows recursive queries, the server could be abused in DDoS reflection attacks.
+  - If misconfigured and allows recursive queries, the server could be abused in DDoS reflection attacks.
 
 
 Test for **zone transfer**:

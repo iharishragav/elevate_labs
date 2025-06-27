@@ -15,6 +15,7 @@
 **1. DNS Zone Transfer Exposure**
   - Zone transfers (AXFR) are used to replicate DNS databases across servers.
   - If misconfigured, an attacker can extract the full DNS zone file.
+    
 **2. DNS Tunneling**
   - Malicious actors can exfiltrate data or create C2 (command & control) channels via DNS over TCP.
 

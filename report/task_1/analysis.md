@@ -24,5 +24,5 @@ I - If misconfigured and allows recursive queries, the server could be abused in
 
 Test for **zone transfer**:
   ```bash
-  dig axfr @192.168.229.143 yourdomain.local
+  dig axfr @192.168.229.143 ragav.local
   ```

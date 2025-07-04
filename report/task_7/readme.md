@@ -94,8 +94,8 @@ The audit followed an 8-step systematic approach:
 
 ## 👨‍💻 Author
 
-**Name:** kamalesh  
-**Internship Role:** Cybersecurity Intern  
+**Name:** kamalesh
+**Internship Role:** Cybersecurity Intern 
 **Date:** july 3, 2025
 
 
